@@ -14,6 +14,15 @@ Coursera Algorithms specialization offered by **Stanford University**
 
 
 ## Course #2 - Graph Search, Shortest Paths, and Data Structures
+&nbsp;&nbsp;&nbsp;&nbsp;[**Coursera Course Certificate**](https://www.coursera.org/account/accomplishments/verify/ZADJZ6GNFB9D)
+
+* Programming Assignment #2-1: [**Karatsuba Multiplication**](https://github.com/zhukaijun0629/Coursera_Algorithms/tree/main/Course%20%231/PA%20%231-1)
+
+* Programming Assignment #2-2: [**Sort Array and Count Inversions**](https://github.com/zhukaijun0629/Coursera_Algorithms/tree/main/Course%20%231/PA%20%231-2)
+
+* Programming Assignment #2-3: [**QuickSort and Count Comparisons**](https://github.com/zhukaijun0629/Coursera_Algorithms/tree/main/Course%20%231/PA%20%231-3)
+
+* Programming Assignment #2-4: [**Karger Minimum Cut**](https://github.com/zhukaijun0629/Coursera_Algorithms/tree/main/Course%20%231/PA%20%231-4)
 
 ## Course #3 - Greedy Algorithms, Minimum Spanning Trees(MST), and Dynamic Programming(DP)
 
