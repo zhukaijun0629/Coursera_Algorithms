@@ -2,7 +2,7 @@
 Coursera specialization Algorithms offered by Stanford University 
 
 ![Coursera Logo]
-(https://github.com/zhukaijun0629/README_Library/blob/master/Images/coursera.jfif "Coursera")
+(https://github.com/zhukaijun0629/README_Library/blob/master/Images/coursera.jpg "Coursera")
 
 Course #1 - Divide and Conquer, Sorting and Searching, and Randomized Algorithms \
 &nbsp;&nbsp;&nbsp;&nbsp;[Coursera Certificate](https://www.coursera.org/account/accomplishments/verify/JNTG8MVP5J8B)
