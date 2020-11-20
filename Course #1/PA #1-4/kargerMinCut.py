@@ -6,7 +6,6 @@ def choose_random_key(G):
     v = random.choice(list(G[u]))
     return u,v
 
-
 def kargerMinCut(file_path):
     ###Load Data###
     data=open(file_path,'r')
@@ -18,19 +17,18 @@ def kargerMinCut(file_path):
     # Shrink the graph G by one randomly picked edge (u,v) at a time ...
     # until there is only one edge left
     # The shrinking progress is to compress verticies u,v into one vertice u and ...
-    # and 
+    # transfer v's neighbors to u, and ...
+    # remove any cycles (e.g. u's neighbors being u) caused by the shrinking
     while len(G)>2:
         u,v = choose_random_key(G)
-        G[u].extend(G[v])
+        G[u].extend(G[v]) # transfer v's neighbors to u
         for w in G[v]:
-            G[w].remove(v)
+            G[w].remove(v) # To v's neighbors, update v to u as the neighbor
             G[w].append(u)
         while u in G[u]:
-            G[u].remove(u)
+            G[u].remove(u)# remove cycles
         del G[v]
     return len(G[u])
-
-    # print(len(G[u]))
 
 def operation(n):
     # repeat the Karger Minimum Cut operation n times to get the Global Minimum
