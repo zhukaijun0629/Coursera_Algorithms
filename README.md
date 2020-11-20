@@ -8,6 +8,10 @@ Coursera Algorithms specialization offered by **Stanford University**
 
 * Programming Assignment #1-2: [**Sort Array and Count Inversions**](https://github.com/zhukaijun0629/Coursera_Algorithms/tree/main/Course%20%231/PA%20%231-2)
 
+* Programming Assignment #1-3: [**QuickSort and Count Comparisons**](https://github.com/zhukaijun0629/Coursera_Algorithms/tree/main/Course%20%231/PA%20%231-3)
+
+* Programming Assignment #1-4: [**Karger Minimum Cut**](https://github.com/zhukaijun0629/Coursera_Algorithms/tree/main/Course%20%231/PA%20%231-4)
+
 
 ## Course #2 - Graph Search, Shortest Paths, and Data Structures
 
