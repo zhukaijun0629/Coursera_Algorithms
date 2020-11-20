@@ -2,7 +2,7 @@
 
 Download the following text file:
 
-IntegerArray.txt
+[**IntegerArray.txt**](https://raw.githubusercontent.com/zhukaijun0629/Coursera_Algorithms/main/Course%20%231/PA%20%231-2/IntegerArray.txt)
 
 This file contains all of the 100,000 integers between 1 and 100,000 (inclusive) in some order, with no integer repeated.
 
