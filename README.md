@@ -2,9 +2,11 @@
 Coursera specialization Algorithms offered by **Stanford University**
 
 ## Course #1 - Divide and Conquer, Sorting and Searching, and Randomized Algorithms
-&nbsp;&nbsp;&nbsp;&nbsp;[Coursera Certificate](https://www.coursera.org/account/accomplishments/verify/JNTG8MVP5J8B)
+&nbsp;&nbsp;&nbsp;&nbsp;[**Coursera Certificate**](https://www.coursera.org/account/accomplishments/verify/JNTG8MVP5J8B)
 
 * Programming Assignment #1-1: [**Karatsuba Multiplication**](https://github.com/zhukaijun0629/Coursera_Algorithms/tree/main/Course%20%231/PA%20%231-1)
+
+* Programming Assignment #1-2: [**Sort Array and Count Inversions**](https://github.com/zhukaijun0629/Coursera_Algorithms/tree/main/Course%20%231/PA%20%231-2)
 
 
 ## Course #2 - Graph Search, Shortest Paths, and Data Structures
