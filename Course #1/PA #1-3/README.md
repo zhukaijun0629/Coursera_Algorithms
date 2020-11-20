@@ -2,7 +2,7 @@
 
 ## Question 1
 
-GENERAL DIRECTIONS:
+### GENERAL DIRECTIONS:
 
 Download the following text file:
 
@@ -16,11 +16,11 @@ You should not count comparisons one-by-one. Rather, when there is a recursive c
 
 WARNING: The Partition subroutine can be implemented in several different ways, and different implementations can give you differing numbers of comparisons. For this problem, you should implement the Partition subroutine exactly as it is described in the video lectures (otherwise you might get the wrong answer).
 
-DIRECTIONS FOR THIS PROBLEM:
+### DIRECTIONS FOR THIS PROBLEM:
 
 For the first part of the programming assignment, you should always use the first element of the array as the pivot element.
 
-HOW TO GIVE US YOUR ANSWER:
+### HOW TO GIVE US YOUR ANSWER:
 
 Type the numeric answer in the space provided.
 
@@ -31,11 +31,11 @@ So if your answer is 1198233847, then just type 1198233847 in the space provided
 
 ## Question 2
 
-GENERAL DIRECTIONS AND HOW TO GIVE US YOUR ANSWER:
+### GENERAL DIRECTIONS AND HOW TO GIVE US YOUR ANSWER:
 
 See the first question.
 
-DIRECTIONS FOR THIS PROBLEM:
+### DIRECTIONS FOR THIS PROBLEM:
 
 Compute the number of comparisons (as in Problem 1), always using the final element of the given array as the pivot element. Again, be sure to implement the Partition subroutine exactly as it is described in the video lectures.
 
@@ -44,11 +44,11 @@ Recall from the lectures that, just before the main Partition subroutine, you sh
 
 ## Question 3
 
-GENERAL DIRECTIONS AND HOW TO GIVE US YOUR ANSWER:
+### GENERAL DIRECTIONS AND HOW TO GIVE US YOUR ANSWER:
 
 See the first question.
 
-DIRECTIONS FOR THIS PROBLEM:
+### DIRECTIONS FOR THIS PROBLEM:
 
 Compute the number of comparisons (as in Problem 1), using the "median-of-three" pivot rule. [The primary motivation behind this rule is to do a little bit of extra work to get much better performance on input arrays that are nearly sorted or reverse sorted.] In more detail, you should choose the pivot as follows. Consider the first, middle, and final elements of the given array. (If the array has odd length it should be clear what the "middle" element is; for an array with even length 2k2k, use the k^{th}k 
 th
