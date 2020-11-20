@@ -32,6 +32,7 @@ def merge_and_CountSplitInv(B,C):
     D.extend(B or C)
     return D,Z
 
+####Load Data########
 #A=[3,1,6,5,4,2]
 A = []
 with open ("IntegerArray.txt") as file:
