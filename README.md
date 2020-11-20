@@ -2,7 +2,9 @@
 Coursera specialization Algorithms offered by Stanford University
 
 Course #1 - Divide and Conquer, Sorting and Searching, and Randomized Algorithms
-  Assignments
+[Coursera Certificate](https://www.coursera.org/account/accomplishments/verify/JNTG8MVP5J8B)
+* Assignment 1-1:
+
 
 Course #2 - Graph Search, Shortest Paths, and Data Structures
 
