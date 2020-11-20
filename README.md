@@ -1,5 +1,6 @@
 # Coursera_Algorithms
-Coursera specialization Algorithms offered by Stanford University \
+Coursera specialization Algorithms offered by Stanford University 
+
 ![alt text](https://github.com/zhukaijun0629/README_Library/blob/master/Images/coursera.svg "Coursera")
 
 Course #1 - Divide and Conquer, Sorting and Searching, and Randomized Algorithms \
