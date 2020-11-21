@@ -18,7 +18,7 @@ Coursera Algorithms specialization offered by **Stanford University**
 
 * Programming Assignment #2-1: [**Strongly Connected Components (SCCs) using Kosaraju Algorithm**](https://github.com/zhukaijun0629/Coursera_Algorithms/tree/main/Course%20%232/PA%20%232-1)
 
-* Programming Assignment #2-2: [**Sort Array and Count Inversions**](https://github.com/zhukaijun0629/Coursera_Algorithms/tree/main/Course%20%231/PA%20%231-2)
+* Programming Assignment #2-2: [**Dijkstra's Shortest Path**](https://github.com/zhukaijun0629/Coursera_Algorithms/tree/main/Course%20%232/PA%20%232-2)
 
 * Programming Assignment #2-3: [**QuickSort and Count Comparisons**](https://github.com/zhukaijun0629/Coursera_Algorithms/tree/main/Course%20%231/PA%20%231-3)
 
