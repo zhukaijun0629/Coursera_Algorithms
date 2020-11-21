@@ -67,9 +67,6 @@ for node in range(1,num_nodes):
                     break
 # print(order)
 
-
-
-
 ########################################################
 # DFS on original graph
 
@@ -105,4 +102,4 @@ for node in order:
 ########################################################
 # Getting the five biggest sccs
 scc.sort(reverse=True)
-print(scc[:5])
+print(scc[:5]) # [434821, 968, 459, 313, 211]
