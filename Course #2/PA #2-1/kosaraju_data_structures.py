@@ -1,7 +1,5 @@
-# Copyright David Bai: Anyone can use this code without permission or referencing the original source
-# from tqdm import tqdm
 """
-W1 Kosaraju Algorithm
+PA #2-1 Kosaraju Algorithm
 List Based Iterative Implementation to find sizes of strongly connected components
 """
 
@@ -74,7 +72,6 @@ visited = [False] * len(visited)  # Resetting the visited variable
 order.reverse()  # The nodes should be visited in reverse finishing times
 # print(order)
 
-# for node in tqdm(order):
 for node in order:
     temp=[]
     if visited[node]==True:
@@ -87,7 +84,6 @@ for node in order:
         if not gr[stack_node]:
             temp.append(stack.pop())
         else:
-            # gr[stack_node].sort(key=lambda x: order.index(x))
             for head in gr[stack_node]:
                 if visited[head]:
                     gr[stack_node].remove(head)
