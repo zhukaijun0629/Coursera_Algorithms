@@ -20,9 +20,9 @@ Coursera Algorithms specialization offered by **Stanford University**
 
 * Programming Assignment #2-2: [**Dijkstra's Shortest Path**](https://github.com/zhukaijun0629/Coursera_Algorithms/tree/main/Course%20%232/PA%20%232-2)
 
-* Programming Assignment #2-3: [**QuickSort and Count Comparisons**](https://github.com/zhukaijun0629/Coursera_Algorithms/tree/main/Course%20%231/PA%20%231-3)
+* Programming Assignment #2-3: [**Median Maintenance using Heap**](https://github.com/zhukaijun0629/Coursera_Algorithms/tree/main/Course%20%232/PA%20%232-3)
 
-* Programming Assignment #2-4: [**Karger Minimum Cut**](https://github.com/zhukaijun0629/Coursera_Algorithms/tree/main/Course%20%231/PA%20%231-4)
+* Programming Assignment #2-4: [**Two Sum using Hashtable**](https://github.com/zhukaijun0629/Coursera_Algorithms/tree/main/Course%20%232/PA%20%232-4)
 
 ## Course #3 - Greedy Algorithms, Minimum Spanning Trees(MST), and Dynamic Programming(DP)
 

@@ -33,3 +33,4 @@ for line in data:
     medians.append(-hlow[0])
 
 print(sum(medians) % 10000)
+# 1213
