@@ -13,3 +13,10 @@ Algorithms are the heart of computer science, and the subject has countless prac
 [Mathematics for Computer Science (by Eric Lehman and Tom Leighton)](https://www.cs.princeton.edu/courses/archive/fall06/cos341/handouts/mathcs.pdf)
 
 ## Programming Assignments
+* Programming Assignment #2-1: [**Strongly Connected Components (SCCs) using Kosaraju Algorithm**](https://github.com/zhukaijun0629/Coursera_Algorithms/tree/main/Course%20%232/PA%20%232-1)
+
+* Programming Assignment #2-2: [**Dijkstra's Shortest Path**](https://github.com/zhukaijun0629/Coursera_Algorithms/tree/main/Course%20%232/PA%20%232-2)
+
+* Programming Assignment #2-3: [**Median Maintenance using Heap**](https://github.com/zhukaijun0629/Coursera_Algorithms/tree/main/Course%20%232/PA%20%232-3)
+
+* Programming Assignment #2-4: [**Two Sum using Hashtable**](https://github.com/zhukaijun0629/Coursera_Algorithms/tree/main/Course%20%232/PA%20%232-4)
