@@ -6,7 +6,7 @@ In this programming problem and the next you'll code up the **greedy algorithms*
 
 Download the text file below.
 
-jobs.txt
+[**jobs.txt**](https://raw.githubusercontent.com/zhukaijun0629/Coursera_Algorithms/main/Course%20%233/PA%20%233-1/jobs.txt)
 
 This file describes a set of jobs with positive and integral weights and lengths. It has the format
 
@@ -37,7 +37,7 @@ In this programming problem you'll code up **Prim's minimum spanning tree algori
 
 Download the text file below.
 
-edges.txt
+[**edges.txt**](https://raw.githubusercontent.com/zhukaijun0629/Coursera_Algorithms/main/Course%20%233/PA%20%233-1/edges.txt)
 
 This file describes an undirected graph with integer edge costs. It has the format
 
