@@ -4,7 +4,7 @@ class Vertex:
     def __init__(self, n):
         self.name = n
         self.neighbors = list()
-        self.dts =1000000  #distance to source
+        self.dts = 1000000  #distance to source
 
     def add_neighbor(self, v, weight):
         if v not in [row[0] for row in self.neighbors]:
@@ -35,24 +35,24 @@ class Graph:
             print(key , self.vertices[key].neighbors)
 
     def dijkstra(self,s):
-        X=[s]
+        X = [s]
         self.vertices[s].dts = 0
         target = sorted(list(self.vertices.keys()))
         while X != target:
-            min_dist=float('inf')
+            min_dist = float('inf')
             for v in X:
                 pre_dist = self.vertices[v].dts
                 for w,dist in self.vertices[v].neighbors:
                     if w not in X:
                         cur_dist = pre_dist + dist
                         if cur_dist < min_dist:
-                            min_dist=cur_dist
-                            close_nb=w
+                            min_dist = cur_dist
+                            close_nb = w
                             # print(closest_nb, self.vertices[closest_nb].dts)
             X.append(close_nb)
             X.sort()
             self.vertices[close_nb].dts=min_dist
-        a=[]
+        a = []
         for i in [7,37,59,82,99,115,133,165,188,197]:
             a.append(str(self.vertices[i].dts))
         print(','.join(a))
@@ -66,11 +66,11 @@ for i in range(1,num_nodes+1):
 with open('dijkstraData.txt') as file:
     for line in file:
         line = line.split()
-        u=int(line[0])
+        u = int(line[0])
         for v_dist in line[1:]:
-            v_dist=v_dist.split(',')
-            v=int(v_dist[0])
-            dist=int(v_dist[1])
+            v_dist = v_dist.split(',')
+            v = int(v_dist[0])
+            dist = int(v_dist[1])
             # print(u,v,dist)
             g.add_edge(u,v,dist)
 file.close()

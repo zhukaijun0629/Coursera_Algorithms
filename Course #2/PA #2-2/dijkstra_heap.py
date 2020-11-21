@@ -5,7 +5,7 @@ class Vertex:
     def __init__(self, n):
         self.name = n
         self.neighbors = list()
-        self.dts =1000000  #distance to source
+        self.dts = 1000000  #distance to source
 
     def add_neighbor(self, v, weight):
         if v not in [row[0] for row in self.neighbors]:
@@ -36,7 +36,7 @@ class Graph:
             print(key , self.vertices[key].neighbors)
 
     def dijkstra(self,s):
-        X=[s]
+        X = [s]
         self.vertices[s].dts = 0
         pq = [(0,s)]
         while pq:
@@ -52,7 +52,7 @@ class Graph:
                 if cur_dist < self.vertices[w].dts:
                     self.vertices[w].dts = cur_dist
                     heapq.heappush(pq,(cur_dist,w))
-        a=[]
+        a = []
         for i in [7,37,59,82,99,115,133,165,188,197]:
             a.append(str(self.vertices[i].dts))
         print(','.join(a))
@@ -65,11 +65,11 @@ for i in range(1,num_nodes+1):
 with open('dijkstraData.txt') as file:
     for line in file:
         line = line.split()
-        u=int(line[0])
+        u = int(line[0])
         for v_dist in line[1:]:
-            v_dist=v_dist.split(',')
-            v=int(v_dist[0])
-            dist=int(v_dist[1])
+            v_dist = v_dist.split(',')
+            v = int(v_dist[0])
+            dist = int(v_dist[1])
             # print(u,v,dist)
             g.add_edge(u,v,dist)
 file.close()
