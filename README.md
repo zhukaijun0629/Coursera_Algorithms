@@ -27,7 +27,7 @@ Coursera Algorithms specialization offered by **Stanford University**
 ## Course #3 - Greedy Algorithms, Minimum Spanning Trees(MST), and Dynamic Programming(DP)
 &nbsp;&nbsp;&nbsp;&nbsp;[**Coursera Course Certificate**]()
 
-* Programming Assignment #3-1: [**Greedy Algorithms and Prim's MST**]()
+* Programming Assignment #3-1: [**Greedy Algorithms and Prim's MST**](https://github.com/zhukaijun0629/Coursera_Algorithms/tree/main/Course%20%233/PA%20%233-1)
 
 * Programming Assignment #3-2: [****]()
 
