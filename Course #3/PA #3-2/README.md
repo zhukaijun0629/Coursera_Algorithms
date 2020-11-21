@@ -6,7 +6,7 @@ In this programming problem and the next you'll code up the clustering algorithm
 
 Download the text file below.
 
-[**clustering1.txt**]()
+[**clustering1.txt**](https://raw.githubusercontent.com/zhukaijun0629/Coursera_Algorithms/main/Course%20%233/PA%20%233-2/clustering1.txt)
 
 This file describes a distance function (equivalently, a complete graph with edge costs). It has the following format:
 
@@ -18,7 +18,7 @@ This file describes a distance function (equivalently, a complete graph with edg
 
 ...
 
-There is one edge *(i,j)* for each choice of 1 ≤ i < j ≤ n, where *n* is the number of nodes.
+There is one edge *(i, j)* for each choice of 1 ≤ i < j ≤ n, where *n* is the number of nodes.
 
 For example, the third line of the file is "1 3 5250", indicating that the distance between nodes 1 and 3 (equivalently, the cost of the edge (1,3)) is 5250. You can assume that distances are positive, but you should NOT assume that they are distinct.
 
@@ -30,7 +30,7 @@ In this question your task is again to run the clustering algorithm from lecture
 
 The data set is below.
 
-[**clustering_big.txt**]()
+[**clustering_big.txt**](https://raw.githubusercontent.com/zhukaijun0629/Coursera_Algorithms/main/Course%20%233/PA%20%233-2/clustering_big.txt)
 
 The format is:
 
