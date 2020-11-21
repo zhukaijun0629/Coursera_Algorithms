@@ -2,7 +2,7 @@
 
 Download the following text file:
 
-[**algo1-programming_prob-2sum.txt**]()
+[**algo1-programming_prob-2sum.txt**](https://raw.githubusercontent.com/zhukaijun0629/Coursera_Algorithms/main/Course%20%232/PA%20%232-4/algo1-programming_prob-2sum.txt)
 
 The goal of this problem is to implement a variant of the 2-SUM algorithm covered in this week's lectures.
 
