@@ -4,7 +4,7 @@ In this programming problem you'll code up Dijkstra's shortest-path algorithm.
 
 Download the following text file:
 
-[**dijkstraData.txt**]
+[**dijkstraData.txt**](https://raw.githubusercontent.com/zhukaijun0629/Coursera_Algorithms/main/Course%20%232/PA%20%232-2/dijkstraData.txt)
 
 The file contains an adjacency list representation of an undirected weighted graph with 200 vertices labeled 1 to 200. Each row consists of the node tuples that are adjacent to that particular vertex along with the length of that edge. For example, the 6th row has 6 as the first entry indicating that this row corresponds to the vertex labeled 6. The next entry of this row "141,8200" indicates that there is an edge between vertex 6 and vertex 141 that has length 8200. The rest of the pairs of this row indicate the other vertices adjacent to vertex 6 and the lengths of the corresponding edges.
 
