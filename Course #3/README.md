@@ -14,6 +14,6 @@ Algorithms are the heart of computer science, and the subject has countless prac
 
 * Programming Assignment #3-2: [**Clustering**](https://github.com/zhukaijun0629/Coursera_Algorithms/tree/main/Course%20%233/PA%20%233-2)
 
-* Programming Assignment #3-3: [****]()
+* Programming Assignment #3-3: [**Huffman Coding and Maximum-Weight Independent Set**](https://github.com/zhukaijun0629/Coursera_Algorithms/tree/main/Course%20%233/PA%20%233-3)
 
 * Programming Assignment #3-4: [****]()
