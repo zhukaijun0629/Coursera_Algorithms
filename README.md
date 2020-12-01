@@ -25,7 +25,7 @@ Coursera Algorithms specialization offered by **Stanford University**
 * Programming Assignment #2-4: [**Two Sum using Hashtable**](https://github.com/zhukaijun0629/Coursera_Algorithms/tree/main/Course%20%232/PA%20%232-4)
 
 ## Course #3 - Greedy Algorithms, Minimum Spanning Trees(MST), and Dynamic Programming(DP)
-&nbsp;&nbsp;&nbsp;&nbsp;[**Coursera Course Certificate**]()
+&nbsp;&nbsp;&nbsp;&nbsp;[**Coursera Course Certificate**](https://www.coursera.org/account/accomplishments/verify/LW95PRKLRXD8)
 
 * Programming Assignment #3-1: [**Greedy Algorithms and Prim's MST**](https://github.com/zhukaijun0629/Coursera_Algorithms/tree/main/Course%20%233/PA%20%233-1)
 
@@ -33,6 +33,6 @@ Coursera Algorithms specialization offered by **Stanford University**
 
 * Programming Assignment #3-3: [**Huffman Coding and Maximum-Weight Independent Set**](https://github.com/zhukaijun0629/Coursera_Algorithms/tree/main/Course%20%233/PA%20%233-3)
 
-* Programming Assignment #3-4: [****]()
+* Programming Assignment #3-4: [**Knapsack Algorithm**](https://github.com/zhukaijun0629/Coursera_Algorithms/tree/main/Course%20%233/PA%20%233-4)
 
 ## Course #4 - Shortest Paths Revisited, NP-Complete Problems and What to Do about Them
