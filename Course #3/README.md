@@ -1,7 +1,7 @@
 # Course #3 - Greedy Algorithms, Minimum Spanning Trees(MST), and Dynamic Programming(DP)
 Coursera Algorithms specialization offered by **Stanford University**
 
-[**Coursera Certificate**]()
+[**Coursera Certificate**](https://www.coursera.org/account/accomplishments/verify/LW95PRKLRXD8)
 
 ## Course overview  
 Algorithms are the heart of computer science, and the subject has countless practical applications as well as intellectual depth. This specialization is an introduction to algorithms for learners with at least a little programming experience. The specialization is rigorous but emphasizes the big picture and conceptual understanding over low-level implementation and mathematical details. After completing this specialization, you will have a greater mastery of algorithms than almost anyone without a graduate degree in the subject.  Specific topics in Part 3 of the specialization include: greedy algorithms (scheduling, minimum spanning trees, clustering, Huffman codes) and dynamic programming (knapsack, sequence alignment, optimal search trees).
@@ -16,4 +16,4 @@ Algorithms are the heart of computer science, and the subject has countless prac
 
 * Programming Assignment #3-3: [**Huffman Coding and Maximum-Weight Independent Set**](https://github.com/zhukaijun0629/Coursera_Algorithms/tree/main/Course%20%233/PA%20%233-3)
 
-* Programming Assignment #3-4: [****]()
+* Programming Assignment #3-4: [**Knapsack Algorithm**](https://github.com/zhukaijun0629/Coursera_Algorithms/tree/main/Course%20%233/PA%20%233-4)
