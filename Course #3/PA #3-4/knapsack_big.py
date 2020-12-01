@@ -1,15 +1,7 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Nov 25 17:59:45 2018
-
-@author: Abdallah-Elshamy
-"""
 import sys
 # import resource
 
 sys.setrecursionlimit(3000)
-# resource.setrlimit(resource.RLIMIT_STACK, (2 ** 29, 2 ** 30))
 items = [(0,0)]
 book_keeper = {}
 def knapsack(num,size):
