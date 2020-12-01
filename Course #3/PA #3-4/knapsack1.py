@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Nov 22 19:56:41 2018
-
-@author: Abdallah-Elshamy
-"""
 def knapsack(items,num,size):
     cache = [[],[]]
     for k in range(0,size+1):
