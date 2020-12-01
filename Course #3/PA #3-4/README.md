@@ -6,7 +6,7 @@ In this programming problem and the next you'll code up the knapsack algorithm f
 
 Let's start with a warm-up. Download the text file below.
 
-[**knapsack1.txt**]
+[**knapsack1.txt**](https://raw.githubusercontent.com/zhukaijun0629/Coursera_Algorithms/main/Course%20%233/PA%20%233-4/knapsack1.txt)
 
 This file describes a knapsack instance, and it has the following format:
 
@@ -33,7 +33,7 @@ This problem also asks you to solve a knapsack instance, but a much bigger one.
 
 Download the text file below.
 
-[**knapsack_big.txt**]
+[**knapsack_big.txt**](https://raw.githubusercontent.com/zhukaijun0629/Coursera_Algorithms/main/Course%20%233/PA%20%233-4/knapsack_big.txt)
 
 This file describes a knapsack instance, and it has the following format:
 
